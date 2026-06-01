@@ -1,0 +1,55 @@
+{
+  "roots": [],
+  "ai": {
+    "provider": "openai",
+    "api_base": "https://api.openai.com/v1",
+    "api_key": "",
+    "model": "gpt-4o-mini",
+    "vision_model": "gpt-4o-mini",
+    "enabled": false
+  },
+  "rename_template": "{语义名}",
+  "theme": "dark",
+  "projects": [
+    {
+      "id": "p_1777555439131_f8v72",
+      "name": "中式微恐",
+      "path": "F:\\05 中式微恐（游戏项目）",
+      "type": "zhaocha",
+      "status": "dev",
+      "created_at": "2026-04-30T13:23:59.131Z"
+    },
+    {
+      "id": "p_1777555443192_paobe",
+      "name": "拼图小",
+      "path": "F:\\04-拼图小游戏（游戏项目）",
+      "type": "pintu",
+      "status": "dev",
+      "created_at": "2026-04-30T13:24:03.192Z"
+    },
+    {
+      "id": "p_1777555444038_0lkjd",
+      "name": "炙热月光",
+      "path": "F:\\02-炙热月光（游戏项目）",
+      "type": "other",
+      "status": "dev",
+      "created_at": "2026-04-30T13:24:04.038Z"
+    },
+    {
+      "id": "p_1777555446638_czt5e",
+      "name": "打脸虐渣",
+      "path": "F:\\03-打脸虐渣（游戏项目）",
+      "type": "zhaocha",
+      "status": "dev",
+      "created_at": "2026-04-30T13:24:06.638Z"
+    },
+    {
+      "id": "p_1777555448933_arc51",
+      "name": "重开到80",
+      "path": "F:\\01-重开到80（游戏项目）",
+      "type": "zhaocha",
+      "status": "dev",
+      "created_at": "2026-04-30T13:24:08.933Z"
+    }
+  ]
+}

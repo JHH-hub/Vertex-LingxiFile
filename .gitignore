@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.pkg
+*.spec
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Logs
+*.log
+*.err
+
+# Cache
+cache/
+*.jpg
+*.png
+*.webp
